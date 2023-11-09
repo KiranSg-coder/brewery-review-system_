@@ -22,11 +22,11 @@ Add Review and rating Page
 
 User Model data
 
-![Screenshot (133)](https://github.com/KiranSg-coder/brewery-review-system_/assets/84786181/d22c225b-5be7-4486-b1dd-2f17518bce8f)
+![Screenshot (134)](https://github.com/KiranSg-coder/brewery-review-system_/assets/84786181/dfb18faf-ffd6-4430-a3fd-5adc8dbb3f08)
 
 Review Model data
 
-![Screenshot (134)](https://github.com/KiranSg-coder/brewery-review-system_/assets/84786181/dfb18faf-ffd6-4430-a3fd-5adc8dbb3f08)
+![Screenshot (133)](https://github.com/KiranSg-coder/brewery-review-system_/assets/84786181/d22c225b-5be7-4486-b1dd-2f17518bce8f)
 
 
 
